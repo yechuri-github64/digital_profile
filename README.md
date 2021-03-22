@@ -8,8 +8,8 @@
      * iteam 2a
      * iteam 3b
   
-  * iteam 1
-  * iteam 2
-  * iteam 3 
-      * iteam 3a
-      * iteam 3b 
+  1. iteam 1
+  2. iteam 2
+  3. iteam 3
+     * iteam 3a
+     * iteam 3b
