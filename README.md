@@ -21,3 +21,6 @@ First Header | Second Header
 ------------ | -------------
 akhil | content cell 2
 content column 1 | content column 2
+
+github supports emoji!
+:+1 :metal :tada
