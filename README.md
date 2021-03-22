@@ -3,13 +3,13 @@
 ## this is an <h2> tag
 ###### this is an <h6> tag
   
-  * iteam 1
-  * iteam 2
-     * iteam 2a
-     * iteam 3b
+  * item 1
+  * item 2
+     * item 2a
+     * item 3b
   
-  1. iteam 1
-  2. iteam 2
-  3. iteam 3
-     * iteam 3a
-     * iteam 3b
+  1. item 1
+  2. item 2
+  3. item 3
+     * item 3a
+     * item 3b
